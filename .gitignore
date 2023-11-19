@@ -1,0 +1,10 @@
+project_resources/
+
+
+# Dataset
+
+dataset/
+
+# Temporary Files
+
+.ipynb_checkpoints*
