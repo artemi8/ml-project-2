@@ -4,6 +4,8 @@ project_resources/
 # Dataset
 
 dataset/
+baseline_model/
+
 
 # Temporary Files
 

@@ -4,7 +4,7 @@ import pickle
 from datetime import datetime
 
 
-def save_model(model, save_path='auto_mpg/models/', name=""):
+def save_model(model, save_path='models/', name=""):
     time_stamp = datetime.now().strftime("%d-%b-%Y-%H-%M-%S")
     save_file_name = f'{save_path}{time_stamp}-{name}.pickle'
     with open(save_file_name, 'wb') as f:
