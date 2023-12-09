@@ -9,6 +9,6 @@ baseline_model/
 
 # Temporary Files
 
-.ipynb_checkpoints*
+*.ipynb_checkpoints
 __pycache__*
 *.jupyterlab-workspace
